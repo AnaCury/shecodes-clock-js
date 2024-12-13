@@ -13,7 +13,8 @@ body{
   border: 1px solid black;
   border-radius: 10px;
 }
-.cities{
+
+.cidades{
   display: flex;
   margin: 10px 0;
   justify-content: space-between;
@@ -26,11 +27,7 @@ body{
   font-weight: bold;
 }
 
-.time small {
-  font-size: 24px;
-  vertical-align: middle;
-  line-height: 48px;
-}
+
 
 h1 {
   text-align: center;
